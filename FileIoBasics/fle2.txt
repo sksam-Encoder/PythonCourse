@@ -1,0 +1,3 @@
+ (r+) mode is used for read and write both operation we can do
+
+ content is over!

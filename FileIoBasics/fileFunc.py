@@ -1,0 +1,5 @@
+fp = open("scratch.txt", "rt")
+# print(fp.readline())
+print(fp.read())
+# print(fp.readlines())
+fp.close()

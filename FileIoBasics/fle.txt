@@ -1,0 +1,4 @@
+w(mode)->  write method is basically used for writing contents in file..
+and the w mode erase the previous content and rewrite
+a(mode) is commonly used for appending the contents into file 
+ without erasing previous contents

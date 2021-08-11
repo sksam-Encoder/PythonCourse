@@ -1,0 +1,7 @@
+writning the content in a file---
+we need file handeling for data persistance
+whatever the file in our program it contains in volatile memory
+
+whenever there became a need of file
+in future use then we need to store the file in the secondary storage which
+can be done by file handeling
